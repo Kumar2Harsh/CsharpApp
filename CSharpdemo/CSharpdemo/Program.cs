@@ -6,7 +6,7 @@ namespace CSharpdemo
     {
         static void Main(string[] args)
         {
-            //chende from github
+            //changed from github
             Console.WriteLine("Hello World!");
             int score = 100;
             int sc2ore2;
