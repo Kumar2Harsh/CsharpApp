@@ -1,0 +1,16 @@
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.exe
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.deps.json
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.runtimeconfig.json
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.runtimeconfig.dev.json
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.dll
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\ref\CSharpdemo.dll
+D:\Wpf Project\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.pdb
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.csproj.AssemblyReference.cache
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.AssemblyInfoInputs.cache
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.AssemblyInfo.cs
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.csproj.CoreCompileInputs.cache
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.dll
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\ref\CSharpdemo.dll
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.pdb
+D:\Wpf Project\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.genruntimeconfig.cache
