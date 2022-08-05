@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Wpf Project\\CSharpdemo\\CSharpdemo\\CSharpdemo.csproj",
+      "projectUniqueName": "D:\\Wpf Project\\CSharpTutorial\\CSharpdemo\\CSharpdemo\\CSharpdemo.csproj",
       "projectName": "CSharpdemo",
-      "projectPath": "D:\\Wpf Project\\CSharpdemo\\CSharpdemo\\CSharpdemo.csproj",
+      "projectPath": "D:\\Wpf Project\\CSharpTutorial\\CSharpdemo\\CSharpdemo\\CSharpdemo.csproj",
       "packagesPath": "C:\\Users\\Kumar Harsh\\.nuget\\packages\\",
-      "outputPath": "D:\\Wpf Project\\CSharpdemo\\CSharpdemo\\obj\\",
+      "outputPath": "D:\\Wpf Project\\CSharpTutorial\\CSharpdemo\\CSharpdemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
