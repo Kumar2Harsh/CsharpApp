@@ -21,7 +21,6 @@ D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.dll
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\bin\Debug\net5.0\ref\CSharpdemo.dll
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\bin\Debug\net5.0\CSharpdemo.pdb
-D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.csproj.AssemblyReference.cache
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.GeneratedMSBuildEditorConfig.editorconfig
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.AssemblyInfoInputs.cache
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.AssemblyInfo.cs
@@ -30,3 +29,4 @@ D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\ref\CSharpdemo.dll
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.pdb
 D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.genruntimeconfig.cache
+D:\Wpf Project\CSharpTutorial\CSharpdemo\CSharpdemo\obj\Debug\net5.0\CSharpdemo.csproj.AssemblyReference.cache
